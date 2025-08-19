@@ -1,13 +1,17 @@
 👋 Hello World! I'm Rameswar, a passionate learner exploring the realms of Web Development and Machine Learning 🚀. Currently on a journey to master the art of crafting beautiful and functional websites while diving deep into the fascinating world of machine intelligence.
 
 🌐 Aspiring Full-Stack Developer:
-  - Frontend: HTML, CSS, JavaScript (React.js)
-  - Databases: SQL
+  - Frontend: HTML, CSS, JavaScript,React.js,Nextjs
+  - Databases: SQL,Postgresql,Chromadb
 
 🤖 Machine Learning Enthusiast:
   - Exploring algorithms, data analysis, and predictive modeling
   - Python: TensorFlow, PyTorch
-  - Projects: STill Learning
+  - Projects: Breast cancer prediction, Super Resolution, Digit classification
+🤖 AI-agent developer:
+  - Exploring agents, tools and applications
+  - Python: Langchain, LangGraph, Huggingface, Ollama
+  - Projects: Conversational Dialouge Agent, RAG application for question answering
 
 📚 Continuous Learner:
   - Always seeking new challenges and opportunities to expand my skill set
